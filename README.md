@@ -53,10 +53,10 @@ The SQL queries in `queries.sql` are designed to answer the following business q
 ---
 
 ## Project Structure
-.
-├── flowAnalysis.py      # Python script for the ETL process
-├── orders.csv           # Raw source data file
-├── queries.sql          # SQL script with all analysis queries
+
+├── flowAnalysis.py      # Python script for the ETL process <br>
+├── orders.csv           # Raw source data file <br>
+├── queries.sql          # SQL script with all analysis queries <br>
 
 ---
 
